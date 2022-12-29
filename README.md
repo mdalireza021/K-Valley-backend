@@ -29,15 +29,15 @@ $ npm install
 ### Live API Routes Documentations
 
 ```sh
-_______________________________________________________________________________________________________
-| Methods:                        Urls:                                           //Actions           |
-|_____________________________________________________________________________________________________|
-| GET:     https://k-valley-backend-tlv5.vercel.app/api/test/all/         // retrive public content   |
-| GET:     https://k-valley-backend-tlv5.vercel.app/api/test/admin/       // access Admin’s content   |
-| GET:     https://k-valley-backend-tlv5.vercel.app/api/test/user/        // access User’s content    |
-| POST:    https://k-valley-backend-tlv5.vercel.app//api/auth/signin      // login the account        |
-| POST:    https://k-valley-backend-tlv5.vercel.app//api/auth/signup       // signup new account      |
-| POST:    https://k-valley-backend-tlv5.vercel.app//api/auth/signout      // logout the account      |
-|_____________________________________________________________________________________________________|
+____________________________________________________________________________________________________
+| Methods:                        Urls:                                           //Actions        |
+|__________________________________________________________________________________________________|
+| GET:    https://k-valley-backend-tlv5.vercel.app/api/test/all/        //retrive public content   |
+| GET:    https://k-valley-backend-tlv5.vercel.app/api/test/admin/      //access Admin’s content   |
+| GET:    https://k-valley-backend-tlv5.vercel.app/api/test/user/       //access User’s content    |
+| POST:   https://k-valley-backend-tlv5.vercel.app//api/auth/signin     //login the account        |
+| POST:   https://k-valley-backend-tlv5.vercel.app//api/auth/signup     //signup new account       |
+| POST:   https://k-valley-backend-tlv5.vercel.app//api/auth/signout    //logout the account       |
+|__________________________________________________________________________________________________|
 ```
 
